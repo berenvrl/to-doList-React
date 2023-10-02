@@ -1,4 +1,4 @@
-# 🧮 To-Do List Made By React
+# 📝 To-Do List Made By React
 
 Simple to-do list app made by React components and hooks.
 
@@ -9,12 +9,11 @@ Simple to-do list app made by React components and hooks.
 # Reach the App
 
 You need to follow these steps to reach the project
-1-Clone the repo
-2-In the project directory, you can run ###`npm install`
-3-Run ### `npm start`
+
+### 1-Clone the repo
+
+### 2-In the project directory, you can run `npm install`
+
+### 3-Run `npm start`
 
 You can reach the project here, [todo list](https://berenvrl.github.io/to-doList-React/)
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
