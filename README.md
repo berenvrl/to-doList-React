@@ -20,4 +20,4 @@ You can reach the project here, [todo list](https://berenvrl.github.io/to-doList
 
 # Visual of the project
 
-![ToDo-visual](todovisual.png)
+![ToDo-visual](./public/todovisual.png)
